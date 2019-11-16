@@ -1,0 +1,15 @@
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.Form1.resources
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.Properties.Resources.resources
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.csproj.GenerateResource.Cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.csproj.CoreCompileInputs.cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Debug\scaner.exe.config
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Debug\scaner.exe
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Debug\scaner.pdb
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Debug\Interop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Debug\AxInterop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\Interop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\AxInterop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.csproj.ResolveComReference.cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.exe
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.pdb
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Debug\scaner.Form2.resources

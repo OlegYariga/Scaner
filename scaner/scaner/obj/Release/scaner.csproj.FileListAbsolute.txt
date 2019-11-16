@@ -1,0 +1,16 @@
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Release\scaner.exe.config
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Release\scaner.exe
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Release\scaner.pdb
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Release\Interop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\bin\Release\AxInterop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\Interop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\AxInterop.WIA.dll
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.csproj.ResolveComReference.cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.Form1.resources
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.Form2.resources
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.Properties.Resources.resources
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.csproj.GenerateResource.Cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.csproj.CoreCompileInputs.cache
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.exe
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.pdb
+C:\Users\Doc\Desktop\Scanning\scaner\scaner\obj\Release\scaner.csprojResolveAssemblyReference.cache
